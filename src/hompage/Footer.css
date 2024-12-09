@@ -1,0 +1,36 @@
+.footer-container{
+    width: 1440px;
+    height: 148px;
+    background-color:#171A22;
+}
+
+.footer-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-items ul li {
+    position: relative;
+    top: 40px;
+    display: inline-block;
+    margin: 0 40px;
+}
+
+.footer-items ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-items p{
+    position: relative;
+    color: #fff;
+    top: 30px;
+    font-weight: 400;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,75 @@
+.sub-gen{
+    width: 1340px;
+    height: 440px;
+    background: transparent;
+}
+
+.sub-container{
+    position: relative;
+    top: 50px;
+    left: 110px;
+    display: flex;
+    flex-direction: row;
+}
+
+.sub-image {
+    position: relative;
+}
+
+.sub-image .sub-bg{
+    width: 180px;
+    height: 180px;
+}
+
+.sub-image .sub-at{
+    position: relative;
+    right: 140px;
+    bottom: 50px;
+}
+
+.sub-details{
+    position: inherit;
+    right: 15px;
+}
+
+.sub-details h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-family: 'Chonburi', cursive;
+}
+
+.sub-details p{
+    position: inherit;
+    top: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: #5A6372;
+}
+
+.sub-details input{
+    position: relative;
+    top: 25px;
+    Width: 276px;
+    Height: 37.19px;
+    padding-left: 10px ;
+    font-size: 15px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 3px solid #5A6372;
+}
+
+.sub-btn img{
+    position: relative;
+    top: 10px;
+    margin-right: 15px;
+}
+
+.sub-btn a{
+    position: relative;
+    text-decoration: none;
+    font-family:'Montserrat', sans-serif; ;
+    color: #806799;
+    font-weight:700;
+    Size: 12px;
+    top: 35px
+}

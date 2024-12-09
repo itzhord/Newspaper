@@ -1,0 +1,37 @@
+.Banner-con{
+    width: 1440px;
+    height: Auto;
+}
+
+.input-field{
+    position: relative;
+    bottom: 350px;
+    left: 152.5px;
+    display: inline-block;
+}
+
+.input-field .input-area{
+    border: none;
+    background: transparent;
+    border-bottom: 3px solid #fff;
+    width: 734px;
+    height: 42px;
+    color: #fff;
+    font-size: 30px;
+}
+.input-area:focus{
+    border: 1px solid white;
+}
+   
+
+.input-area::placeholder{
+    color: #fff;
+}
+
+.input-field img{
+    position: relative;
+    left: 1px;
+    top: 28px;
+    width: 75px;
+}
+

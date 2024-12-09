@@ -1,0 +1,45 @@
+
+.short-headline{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 650px;
+    height: 100px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.short-headline img{
+    width: 100px;
+    height: 100px;
+}
+
+.posted-text{
+    position: relative;
+    bottom: 15px;
+    margin-top: 4px ;
+    display: flex;
+    gap: 40px;
+}
+
+.posted-text P{
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.short-details a{
+    position: relative;
+    bottom: 30px;
+    font-family: 'Chonburi', cursive;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.short-text{
+    position: relative;
+    bottom: 40px;
+    font-size: 11px;
+}
+
